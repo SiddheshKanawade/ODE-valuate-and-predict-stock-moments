@@ -15,3 +15,8 @@ model, originally developed by mathematician Verhulst to predict population grow
 predicting the indices depending on certain factors. If possible, we also plan to extend our
 predictions to other stocks and consider multiple factors while analysing the same
 
+Kaggle Dataset Reference
+----------------------------------------------------------------------------------------------------
+https://www.kaggle.com/oneplustricks/nifty-50-20072021
+https://www.kaggle.com/shailendrayadav/bse-sensex-prediction/data
+
