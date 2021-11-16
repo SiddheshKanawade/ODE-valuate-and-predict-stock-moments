@@ -17,6 +17,7 @@ predictions to other stocks and consider multiple factors while analysing the sa
 
 Kaggle Dataset Reference
 ----------------------------------------------------------------------------------------------------
-NIFTY 50 (2007-2021) - https://www.kaggle.com/oneplustricks/nifty-50-20072021
+NIFTY 50 (2007-2021) - https://www.kaggle.com/oneplustricks/nifty-50-20072021                       
+
 BSE Sensex - https://www.kaggle.com/shailendrayadav/bse-sensex-prediction/data
 
